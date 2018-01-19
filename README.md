@@ -1,4 +1,5 @@
 # cheet.js [![Build Status](https://drone.io/github.com/namuol/cheet.js/status.png)](https://drone.io/github.com/namuol/cheet.js/latest) [![dependency Status](https://david-dm.org/namuol/cheet.js/status.svg?style=flat-square)](https://david-dm.org/namuol/cheet.js#info=devDependencies) [![devDependency Status](https://david-dm.org/namuol/cheet.js/dev-status.svg?style=flat-square)](https://david-dm.org/namuol/cheet.js#info=devDependencies)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fcheet.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fcheet.js?ref=badge_shield)
 
 ## easy easter eggs in the browser
 
@@ -231,6 +232,9 @@ cancel the sequence.
 ### License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fcheet.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fcheet.js?ref=badge_large)
 
 ### Testing
 
